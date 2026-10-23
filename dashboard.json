@@ -4,15 +4,15 @@
   "cash": 47028.39,
   "closed_trades": 0,
   "entries_blocked_through": null,
-  "equity": 100596.92,
+  "equity": 100545.64,
   "equity_source": "alpaca_account",
   "last_signal_date": "2026-10-22",
-  "last_updated": "2026-10-23T14:31:34.459021-04:00",
+  "last_updated": "2026-10-23T14:36:35.395346-04:00",
   "losses": 0,
   "open_position_count": 8,
   "open_positions": [
     {
-      "current_price": 248.43,
+      "current_price": 248.35,
       "days_held_sessions": 0,
       "entry_date": "2026-10-23",
       "entry_fill_price": 247.24,
@@ -20,10 +20,10 @@
       "shares": 36.614,
       "stop_price": 233.5869577264339,
       "symbol": "AMZN",
-      "unrealized_pnl": 43.57
+      "unrealized_pnl": 40.64
     },
     {
-      "current_price": 173.02,
+      "current_price": 172.83,
       "days_held_sessions": 0,
       "entry_date": "2026-10-23",
       "entry_fill_price": 169.523298,
@@ -31,10 +31,10 @@
       "shares": 29.597,
       "stop_price": 152.63797756106814,
       "symbol": "ANET",
-      "unrealized_pnl": 103.49
+      "unrealized_pnl": 97.87
     },
     {
-      "current_price": 106.335,
+      "current_price": 106.285,
       "days_held_sessions": 0,
       "entry_date": "2026-10-23",
       "entry_fill_price": 105.079643,
@@ -42,10 +42,10 @@
       "shares": 88.862,
       "stop_price": 99.45301906787734,
       "symbol": "CSCO",
-      "unrealized_pnl": 111.55
+      "unrealized_pnl": 107.11
     },
     {
-      "current_price": 644.395,
+      "current_price": 644.15,
       "days_held_sessions": 0,
       "entry_date": "2026-10-23",
       "entry_fill_price": 636.273414,
@@ -53,10 +53,10 @@
       "shares": 9.346,
       "stop_price": 582.7762097404515,
       "symbol": "META",
-      "unrealized_pnl": 75.9
+      "unrealized_pnl": 73.61
     },
     {
-      "current_price": 199.99,
+      "current_price": 199.1,
       "days_held_sessions": 0,
       "entry_date": "2026-10-23",
       "entry_fill_price": 183.91267,
@@ -64,10 +64,10 @@
       "shares": 12.135,
       "stop_price": 142.74598503301758,
       "symbol": "MRNA",
-      "unrealized_pnl": 195.1
+      "unrealized_pnl": 184.3
     },
     {
-      "current_price": 524.37,
+      "current_price": 524.16,
       "days_held_sessions": 0,
       "entry_date": "2026-10-23",
       "entry_fill_price": 517.982061,
@@ -75,10 +75,10 @@
       "shares": 22.297,
       "stop_price": 495.55959844489024,
       "symbol": "MSFT",
-      "unrealized_pnl": 142.43
+      "unrealized_pnl": 137.75
     },
     {
-      "current_price": 1260.725,
+      "current_price": 1263.39,
       "days_held_sessions": 0,
       "entry_date": "2026-10-23",
       "entry_fill_price": 1265.98,
@@ -86,10 +86,10 @@
       "shares": 2.591,
       "stop_price": 1073.0731826111044,
       "symbol": "SNDK",
-      "unrealized_pnl": -13.62
+      "unrealized_pnl": -6.71
     },
     {
-      "current_price": 419.54,
+      "current_price": 416.85,
       "days_held_sessions": 0,
       "entry_date": "2026-10-23",
       "entry_fill_price": 422.49,
@@ -97,13 +97,13 @@
       "shares": 15.518,
       "stop_price": 390.2767803598374,
       "symbol": "VLO",
-      "unrealized_pnl": -45.78
+      "unrealized_pnl": -87.52
     }
   ],
   "paper_only": true,
   "pending_entries": [],
   "pending_recovery_exits": [],
-  "pnl_pct": 0.5969,
+  "pnl_pct": 0.5456,
   "realized_pnl": 0.0,
   "realized_pnl_cost_adj": 0.0,
   "regime": {
@@ -114,7 +114,7 @@
     "spy_sma200": 723.1998249999997
   },
   "status": "open",
-  "unrealized_pnl": 612.66,
+  "unrealized_pnl": 547.05,
   "versions": {
     "config_hash": "b7a3e1e6b265",
     "costs": "costs_mr_v1",
