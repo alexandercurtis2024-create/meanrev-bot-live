@@ -1,0 +1,76 @@
+{
+  "banner": "PAPER ONLY \u2014 MULTI-STOCK MEAN REVERSION \u00b7 ALPACA PAPER ACCOUNT \u00b7 NO REAL FUNDS",
+  "broker": "alpaca-paper",
+  "cash": 100000.0,
+  "closed_trades": 0,
+  "entries_blocked_through": null,
+  "equity": 100000.0,
+  "equity_source": "alpaca_account",
+  "last_signal_date": "2026-10-22",
+  "last_updated": "2026-10-23T00:16:46.501731-04:00",
+  "losses": 0,
+  "open_position_count": 0,
+  "open_positions": [],
+  "paper_only": true,
+  "pending_entries": [
+    {
+      "rsi2": 4.44,
+      "signal_date": "2026-10-22",
+      "symbol": "META"
+    },
+    {
+      "rsi2": 8.86,
+      "signal_date": "2026-10-22",
+      "symbol": "MSFT"
+    },
+    {
+      "rsi2": 10.9,
+      "signal_date": "2026-10-22",
+      "symbol": "SNDK"
+    },
+    {
+      "rsi2": 11.47,
+      "signal_date": "2026-10-22",
+      "symbol": "CSCO"
+    },
+    {
+      "rsi2": 11.78,
+      "signal_date": "2026-10-22",
+      "symbol": "AMZN"
+    },
+    {
+      "rsi2": 12.94,
+      "signal_date": "2026-10-22",
+      "symbol": "VLO"
+    },
+    {
+      "rsi2": 13.6,
+      "signal_date": "2026-10-22",
+      "symbol": "ANET"
+    },
+    {
+      "rsi2": 14.35,
+      "signal_date": "2026-10-22",
+      "symbol": "MRNA"
+    }
+  ],
+  "pending_recovery_exits": [],
+  "pnl_pct": 0.0,
+  "realized_pnl": 0.0,
+  "realized_pnl_cost_adj": 0.0,
+  "regime": {
+    "as_of": "2026-10-22",
+    "risk_on": true,
+    "spy_close": 773.13,
+    "spy_regime_date": "2026-10-21",
+    "spy_sma200": 723.1998249999997
+  },
+  "status": "market_closed",
+  "unrealized_pnl": 0.0,
+  "versions": {
+    "config_hash": "b7a3e1e6b265",
+    "costs": "costs_mr_v1",
+    "strategy": "strategy_mr_v1"
+  },
+  "wins": 0
+}
