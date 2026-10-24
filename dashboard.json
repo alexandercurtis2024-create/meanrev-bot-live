@@ -2,15 +2,91 @@
   "alert": null,
   "banner": "PAPER ONLY \u2014 MULTI-STOCK MEAN REVERSION \u00b7 ALPACA PAPER ACCOUNT \u00b7 NO REAL FUNDS",
   "broker": "alpaca-paper",
+  "by_exit_reason": {
+    "other": {
+      "count": 0,
+      "expectancy": null,
+      "expectancy_10bp": null,
+      "expectancy_5bp": null,
+      "expectancy_cost_adj": null,
+      "total_pnl": 0.0,
+      "total_pnl_10bp": 0.0,
+      "total_pnl_5bp": 0.0,
+      "total_pnl_cost_adj": 0.0,
+      "win_rate": null,
+      "wins": 0
+    },
+    "recovery": {
+      "count": 0,
+      "expectancy": null,
+      "expectancy_10bp": null,
+      "expectancy_5bp": null,
+      "expectancy_cost_adj": null,
+      "total_pnl": 0.0,
+      "total_pnl_10bp": 0.0,
+      "total_pnl_5bp": 0.0,
+      "total_pnl_cost_adj": 0.0,
+      "win_rate": null,
+      "wins": 0
+    },
+    "stop": {
+      "count": 0,
+      "expectancy": null,
+      "expectancy_10bp": null,
+      "expectancy_5bp": null,
+      "expectancy_cost_adj": null,
+      "total_pnl": 0.0,
+      "total_pnl_10bp": 0.0,
+      "total_pnl_5bp": 0.0,
+      "total_pnl_cost_adj": 0.0,
+      "win_rate": null,
+      "wins": 0
+    },
+    "time": {
+      "count": 0,
+      "expectancy": null,
+      "expectancy_10bp": null,
+      "expectancy_5bp": null,
+      "expectancy_cost_adj": null,
+      "total_pnl": 0.0,
+      "total_pnl_10bp": 0.0,
+      "total_pnl_5bp": 0.0,
+      "total_pnl_cost_adj": 0.0,
+      "win_rate": null,
+      "wins": 0
+    }
+  },
   "cash": 47028.39,
   "closed_trades": 0,
   "entries_blocked_through": null,
   "equity": 100517.36,
   "equity_source": "alpaca_account",
+  "fill_quality": {
+    "flag_threshold_pct": 1.5,
+    "flagged_count": 1,
+    "flagged_fills": [
+      {
+        "date": "2026-10-23",
+        "est_pnl_impact_usd": 158.81,
+        "fill_deviation_pct": -6.64,
+        "fill_price": 183.91267,
+        "ref_price": 197.0,
+        "side": "buy",
+        "symbol": "MRNA"
+      }
+    ],
+    "open_reference": {
+      "realized_pnl": 0.0,
+      "realized_pnl_actual": 0.0,
+      "unrealized_pnl": 340.86,
+      "unrealized_pnl_actual": 514.35
+    },
+    "total_fills": 8
+  },
   "halt_flatten": false,
   "halted": false,
   "last_signal_date": "2026-10-23",
-  "last_updated": "2026-10-24T01:08:43.459433-04:00",
+  "last_updated": "2026-10-24T01:09:22.585284-04:00",
   "losses": 0,
   "mode": "paper",
   "open_position_count": 8,
