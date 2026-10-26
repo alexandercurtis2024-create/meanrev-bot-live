@@ -59,7 +59,7 @@
   "cash": 47028.38,
   "closed_trades": 0,
   "entries_blocked_through": null,
-  "equity": 100560.63,
+  "equity": 100720.12,
   "equity_source": "alpaca_account",
   "fill_quality": {
     "flag_threshold_pct": 1.5,
@@ -78,21 +78,21 @@
     "open_reference": {
       "realized_pnl": 0.0,
       "realized_pnl_actual": 0.0,
-      "unrealized_pnl": 340.86,
-      "unrealized_pnl_actual": 514.35
+      "unrealized_pnl": 475.98,
+      "unrealized_pnl_actual": 649.47
     },
     "total_fills": 8
   },
   "halt_flatten": false,
   "halted": false,
   "last_signal_date": "2026-10-23",
-  "last_updated": "2026-10-26T09:29:58.846222-04:00",
+  "last_updated": "2026-10-26T09:30:58.851929-04:00",
   "losses": 0,
   "mode": "paper",
   "open_position_count": 8,
   "open_positions": [
     {
-      "current_price": 248.055,
+      "current_price": 249.49,
       "days_held_sessions": 0,
       "entry_date": "2026-10-23",
       "entry_fill_price": 247.24,
@@ -100,10 +100,10 @@
       "shares": 36.614,
       "stop_price": 233.5869577264339,
       "symbol": "AMZN",
-      "unrealized_pnl": 29.84
+      "unrealized_pnl": 82.38
     },
     {
-      "current_price": 172.245,
+      "current_price": 172.33,
       "days_held_sessions": 0,
       "entry_date": "2026-10-23",
       "entry_fill_price": 169.523298,
@@ -111,10 +111,10 @@
       "shares": 29.597,
       "stop_price": 152.63797756106814,
       "symbol": "ANET",
-      "unrealized_pnl": 80.55
+      "unrealized_pnl": 83.07
     },
     {
-      "current_price": 106.525,
+      "current_price": 108.15,
       "days_held_sessions": 0,
       "entry_date": "2026-10-23",
       "entry_fill_price": 105.079643,
@@ -122,10 +122,10 @@
       "shares": 88.862,
       "stop_price": 99.45301906787734,
       "symbol": "CSCO",
-      "unrealized_pnl": 128.44
+      "unrealized_pnl": 272.84
     },
     {
-      "current_price": 642.685,
+      "current_price": 637.26,
       "days_held_sessions": 0,
       "entry_date": "2026-10-23",
       "entry_fill_price": 636.273414,
@@ -133,10 +133,10 @@
       "shares": 9.346,
       "stop_price": 582.7762097404515,
       "symbol": "META",
-      "unrealized_pnl": 59.92
+      "unrealized_pnl": 9.22
     },
     {
-      "current_price": 199.9,
+      "current_price": 190.02,
       "days_held_sessions": 0,
       "entry_date": "2026-10-23",
       "entry_fill_price": 183.91267,
@@ -144,10 +144,10 @@
       "shares": 12.135,
       "stop_price": 142.74598503301758,
       "symbol": "MRNA",
-      "unrealized_pnl": 194.01
+      "unrealized_pnl": 74.11
     },
     {
-      "current_price": 524.755,
+      "current_price": 527.19,
       "days_held_sessions": 0,
       "entry_date": "2026-10-23",
       "entry_fill_price": 517.982061,
@@ -155,10 +155,10 @@
       "shares": 22.297,
       "stop_price": 495.55959844489024,
       "symbol": "MSFT",
-      "unrealized_pnl": 151.02
+      "unrealized_pnl": 205.31
     },
     {
-      "current_price": 1237.65,
+      "current_price": 1254.89,
       "days_held_sessions": 0,
       "entry_date": "2026-10-23",
       "entry_fill_price": 1265.98,
@@ -166,10 +166,10 @@
       "shares": 2.591,
       "stop_price": 1073.0731826111044,
       "symbol": "SNDK",
-      "unrealized_pnl": -73.4
+      "unrealized_pnl": -28.73
     },
     {
-      "current_price": 418.88,
+      "current_price": 419.35,
       "days_held_sessions": 0,
       "entry_date": "2026-10-23",
       "entry_fill_price": 422.49,
@@ -177,7 +177,7 @@
       "shares": 15.518,
       "stop_price": 390.2767803598374,
       "symbol": "VLO",
-      "unrealized_pnl": -56.02
+      "unrealized_pnl": -48.73
     }
   ],
   "paper_only": true,
@@ -185,7 +185,7 @@
   "pending_recovery_exits": [
     "CSCO"
   ],
-  "pnl_pct": 0.5606,
+  "pnl_pct": 0.7201,
   "realized_pnl": 0.0,
   "realized_pnl_cost_adj": 0.0,
   "regime": {
@@ -195,8 +195,8 @@
     "spy_regime_date": "2026-10-22",
     "spy_sma200": 723.5878749999996
   },
-  "status": "market_closed",
-  "unrealized_pnl": 514.35,
+  "status": "open",
+  "unrealized_pnl": 649.47,
   "versions": {
     "config_hash": "b7a3e1e6b265",
     "costs": "costs_mr_v1",
