@@ -59,7 +59,7 @@
   "cash": 56629.48,
   "closed_trades": 1,
   "entries_blocked_through": null,
-  "equity": 101074.01,
+  "equity": 101060.33,
   "equity_source": "alpaca_account",
   "fill_quality": {
     "flag_threshold_pct": 1.5,
@@ -86,7 +86,7 @@
   "halt_flatten": false,
   "halted": false,
   "last_signal_date": "2026-10-26",
-  "last_updated": "2026-10-26T18:47:35.429938-04:00",
+  "last_updated": "2026-10-26T18:48:35.432830-04:00",
   "losses": 0,
   "mode": "paper",
   "open_position_count": 7,
@@ -181,7 +181,7 @@
     "ANET",
     "MSFT"
   ],
-  "pnl_pct": 1.074,
+  "pnl_pct": 1.0603,
   "realized_pnl": 263.51,
   "realized_pnl_cost_adj": 257.83,
   "regime": {
