@@ -59,7 +59,7 @@
   "cash": 56629.48,
   "closed_trades": 1,
   "entries_blocked_through": null,
-  "equity": 101040.29,
+  "equity": 101031.66,
   "equity_source": "alpaca_account",
   "fill_quality": {
     "flag_threshold_pct": 1.5,
@@ -85,8 +85,8 @@
   },
   "halt_flatten": false,
   "halted": false,
-  "last_signal_date": "2026-10-23",
-  "last_updated": "2026-10-26T16:09:45.251227-04:00",
+  "last_signal_date": "2026-10-26",
+  "last_updated": "2026-10-26T16:10:45.259335-04:00",
   "losses": 0,
   "mode": "paper",
   "open_position_count": 7,
@@ -170,17 +170,26 @@
     }
   ],
   "paper_only": true,
-  "pending_entries": [],
-  "pending_recovery_exits": [],
-  "pnl_pct": 1.0403,
+  "pending_entries": [
+    {
+      "rsi2": 7.7,
+      "signal_date": "2026-10-26",
+      "symbol": "MRK"
+    }
+  ],
+  "pending_recovery_exits": [
+    "ANET",
+    "MSFT"
+  ],
+  "pnl_pct": 1.0317,
   "realized_pnl": 263.51,
   "realized_pnl_cost_adj": 257.83,
   "regime": {
-    "as_of": "2026-10-23",
+    "as_of": "2026-10-26",
     "risk_on": true,
-    "spy_close": 764.03,
-    "spy_regime_date": "2026-10-22",
-    "spy_sma200": 723.5878749999996
+    "spy_close": 759.83,
+    "spy_regime_date": "2026-10-23",
+    "spy_sma200": 723.9657249999996
   },
   "status": "market_closed",
   "unrealized_pnl": 769.22,
