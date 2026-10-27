@@ -59,7 +59,7 @@
   "cash": 71719.01,
   "closed_trades": 4,
   "entries_blocked_through": null,
-  "equity": 101019.66,
+  "equity": 101016.71,
   "equity_source": "alpaca_account",
   "fill_quality": {
     "flag_threshold_pct": 1.5,
@@ -87,21 +87,21 @@
     "open_reference": {
       "realized_pnl": 461.33,
       "realized_pnl_actual": 421.39,
-      "unrealized_pnl": 393.58,
-      "unrealized_pnl_actual": 593.7
+      "unrealized_pnl": 389.38,
+      "unrealized_pnl_actual": 589.5
     },
     "total_fills": 13
   },
   "halt_flatten": false,
   "halted": false,
   "last_signal_date": "2026-10-26",
-  "last_updated": "2026-10-27T15:10:34.878262-04:00",
+  "last_updated": "2026-10-27T15:15:36.849969-04:00",
   "losses": 1,
   "mode": "paper",
   "open_position_count": 5,
   "open_positions": [
     {
-      "current_price": 254.55,
+      "current_price": 254.41,
       "days_held_sessions": 1,
       "entry_date": "2026-10-23",
       "entry_fill_price": 247.24,
@@ -109,10 +109,10 @@
       "shares": 36.614,
       "stop_price": 233.5869577264339,
       "symbol": "AMZN",
-      "unrealized_pnl": 267.65
+      "unrealized_pnl": 262.52
     },
     {
-      "current_price": 622.98,
+      "current_price": 623.74,
       "days_held_sessions": 1,
       "entry_date": "2026-10-23",
       "entry_fill_price": 636.273414,
@@ -120,10 +120,10 @@
       "shares": 9.346,
       "stop_price": 582.7762097404515,
       "symbol": "META",
-      "unrealized_pnl": -124.24
+      "unrealized_pnl": -117.14
     },
     {
-      "current_price": 141.86,
+      "current_price": 141.83,
       "days_held_sessions": 0,
       "entry_date": "2026-10-27",
       "entry_fill_price": 140.298222,
@@ -131,10 +131,10 @@
       "shares": 58.384,
       "stop_price": 131.65656616472637,
       "symbol": "MRK",
-      "unrealized_pnl": 91.18
+      "unrealized_pnl": 89.43
     },
     {
-      "current_price": 206.03,
+      "current_price": 205.77,
       "days_held_sessions": 1,
       "entry_date": "2026-10-23",
       "entry_fill_price": 183.91267,
@@ -142,10 +142,10 @@
       "shares": 12.135,
       "stop_price": 142.74598503301758,
       "symbol": "MRNA",
-      "unrealized_pnl": 268.39
+      "unrealized_pnl": 265.24
     },
     {
-      "current_price": 1300.99,
+      "current_price": 1300.5,
       "days_held_sessions": 1,
       "entry_date": "2026-10-23",
       "entry_fill_price": 1265.98,
@@ -153,13 +153,13 @@
       "shares": 2.591,
       "stop_price": 1073.0731826111044,
       "symbol": "SNDK",
-      "unrealized_pnl": 90.71
+      "unrealized_pnl": 89.44
     }
   ],
   "paper_only": true,
   "pending_entries": [],
   "pending_recovery_exits": [],
-  "pnl_pct": 1.0197,
+  "pnl_pct": 1.0167,
   "realized_pnl": 421.39,
   "realized_pnl_cost_adj": 401.78,
   "regime": {
@@ -170,7 +170,7 @@
     "spy_sma200": 723.9657249999996
   },
   "status": "open",
-  "unrealized_pnl": 593.7,
+  "unrealized_pnl": 589.5,
   "versions": {
     "config_hash": "b7a3e1e6b265",
     "costs": "costs_mr_v1",
