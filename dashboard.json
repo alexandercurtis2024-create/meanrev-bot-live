@@ -59,7 +59,7 @@
   "cash": 71719.01,
   "closed_trades": 4,
   "entries_blocked_through": null,
-  "equity": 100971.89,
+  "equity": 100926.5,
   "equity_source": "alpaca_account",
   "fill_quality": {
     "flag_threshold_pct": 1.5,
@@ -94,8 +94,8 @@
   },
   "halt_flatten": false,
   "halted": false,
-  "last_signal_date": "2026-10-26",
-  "last_updated": "2026-10-27T16:09:51.832703-04:00",
+  "last_signal_date": "2026-10-27",
+  "last_updated": "2026-10-27T16:10:51.836608-04:00",
   "losses": 1,
   "mode": "paper",
   "open_position_count": 5,
@@ -157,17 +157,46 @@
     }
   ],
   "paper_only": true,
-  "pending_entries": [],
-  "pending_recovery_exits": [],
-  "pnl_pct": 0.9719,
+  "pending_entries": [
+    {
+      "rsi2": 8.13,
+      "signal_date": "2026-10-27",
+      "symbol": "VLO"
+    },
+    {
+      "rsi2": 12.71,
+      "signal_date": "2026-10-27",
+      "symbol": "MA"
+    },
+    {
+      "rsi2": 12.95,
+      "signal_date": "2026-10-27",
+      "symbol": "CRM"
+    },
+    {
+      "rsi2": 13.88,
+      "signal_date": "2026-10-27",
+      "symbol": "KO"
+    },
+    {
+      "rsi2": 14.51,
+      "signal_date": "2026-10-27",
+      "symbol": "ACN"
+    }
+  ],
+  "pending_recovery_exits": [
+    "AMZN",
+    "SNDK"
+  ],
+  "pnl_pct": 0.9265,
   "realized_pnl": 421.39,
   "realized_pnl_cost_adj": 401.78,
   "regime": {
-    "as_of": "2026-10-26",
+    "as_of": "2026-10-27",
     "risk_on": true,
-    "spy_close": 759.83,
-    "spy_regime_date": "2026-10-23",
-    "spy_sma200": 723.9657249999996
+    "spy_close": 765.225,
+    "spy_regime_date": "2026-10-26",
+    "spy_sma200": 724.3715499999995
   },
   "status": "market_closed",
   "unrealized_pnl": 548.61,
