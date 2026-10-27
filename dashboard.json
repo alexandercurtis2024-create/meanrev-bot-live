@@ -59,7 +59,7 @@
   "cash": 71719.01,
   "closed_trades": 4,
   "entries_blocked_through": null,
-  "equity": 100921.48,
+  "equity": 100931.51,
   "equity_source": "alpaca_account",
   "fill_quality": {
     "flag_threshold_pct": 1.5,
@@ -95,7 +95,7 @@
   "halt_flatten": false,
   "halted": false,
   "last_signal_date": "2026-10-27",
-  "last_updated": "2026-10-27T18:10:07.607052-04:00",
+  "last_updated": "2026-10-27T18:11:07.610493-04:00",
   "losses": 1,
   "mode": "paper",
   "open_position_count": 5,
@@ -188,7 +188,7 @@
     "AMZN",
     "SNDK"
   ],
-  "pnl_pct": 0.9215,
+  "pnl_pct": 0.9315,
   "realized_pnl": 421.39,
   "realized_pnl_cost_adj": 401.78,
   "regime": {
