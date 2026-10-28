@@ -59,7 +59,7 @@
   "cash": 35241.82,
   "closed_trades": 6,
   "entries_blocked_through": null,
-  "equity": 101467.33,
+  "equity": 101209.54,
   "equity_source": "alpaca_account",
   "fill_quality": {
     "flag_threshold_pct": 1.5,
@@ -112,8 +112,8 @@
   },
   "halt_flatten": false,
   "halted": false,
-  "last_signal_date": "2026-10-27",
-  "last_updated": "2026-10-28T16:08:06.793734-04:00",
+  "last_signal_date": "2026-10-28",
+  "last_updated": "2026-10-28T16:10:19.244597-04:00",
   "losses": 1,
   "mode": "paper",
   "open_position_count": 8,
@@ -208,17 +208,40 @@
     }
   ],
   "paper_only": true,
-  "pending_entries": [],
-  "pending_recovery_exits": [],
-  "pnl_pct": 1.4673,
+  "pending_entries": [
+    {
+      "rsi2": 9.42,
+      "signal_date": "2026-10-28",
+      "symbol": "NOW"
+    },
+    {
+      "rsi2": 9.87,
+      "signal_date": "2026-10-28",
+      "symbol": "COST"
+    },
+    {
+      "rsi2": 11.89,
+      "signal_date": "2026-10-28",
+      "symbol": "UNH"
+    },
+    {
+      "rsi2": 12.08,
+      "signal_date": "2026-10-28",
+      "symbol": "V"
+    }
+  ],
+  "pending_recovery_exits": [
+    "MRNA"
+  ],
+  "pnl_pct": 1.2095,
   "realized_pnl": 961.13,
   "realized_pnl_cost_adj": 933.96,
   "regime": {
-    "as_of": "2026-10-27",
+    "as_of": "2026-10-28",
     "risk_on": true,
-    "spy_close": 765.225,
-    "spy_regime_date": "2026-10-26",
-    "spy_sma200": 724.3715499999995
+    "spy_close": 769.7,
+    "spy_regime_date": "2026-10-27",
+    "spy_sma200": 724.7770999999997
   },
   "status": "market_closed",
   "unrealized_pnl": 504.27,
