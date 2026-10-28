@@ -59,7 +59,7 @@
   "cash": 35241.82,
   "closed_trades": 6,
   "entries_blocked_through": null,
-  "equity": 101422.81,
+  "equity": 101435.11,
   "equity_source": "alpaca_account",
   "fill_quality": {
     "flag_threshold_pct": 1.5,
@@ -105,21 +105,21 @@
     "open_reference": {
       "realized_pnl": 953.94,
       "realized_pnl_actual": 961.13,
-      "unrealized_pnl": 623.53,
-      "unrealized_pnl_actual": 471.58
+      "unrealized_pnl": 621.86,
+      "unrealized_pnl_actual": 469.92
     },
     "total_fills": 20
   },
   "halt_flatten": false,
   "halted": false,
   "last_signal_date": "2026-10-27",
-  "last_updated": "2026-10-28T12:37:52.746888-04:00",
+  "last_updated": "2026-10-28T12:42:54.021752-04:00",
   "losses": 1,
   "mode": "paper",
   "open_position_count": 8,
   "open_positions": [
     {
-      "current_price": 244.74,
+      "current_price": 245.01,
       "days_held_sessions": 0,
       "entry_date": "2026-10-28",
       "entry_fill_price": 237.09,
@@ -127,10 +127,10 @@
       "shares": 25.686,
       "stop_price": 217.42010600788083,
       "symbol": "ACN",
-      "unrealized_pnl": 196.5
+      "unrealized_pnl": 203.43
     },
     {
-      "current_price": 240.61,
+      "current_price": 240.72,
       "days_held_sessions": 0,
       "entry_date": "2026-10-28",
       "entry_fill_price": 240.34,
@@ -138,10 +138,10 @@
       "shares": 30.354,
       "stop_price": 223.68915291974218,
       "symbol": "CRM",
-      "unrealized_pnl": 8.2
+      "unrealized_pnl": 11.53
     },
     {
-      "current_price": 91.755,
+      "current_price": 91.805,
       "days_held_sessions": 0,
       "entry_date": "2026-10-28",
       "entry_fill_price": 91.15,
@@ -149,10 +149,10 @@
       "shares": 165.435,
       "stop_price": 88.09470247701465,
       "symbol": "KO",
-      "unrealized_pnl": 100.09
+      "unrealized_pnl": 108.36
     },
     {
-      "current_price": 613.17,
+      "current_price": 613.125,
       "days_held_sessions": 0,
       "entry_date": "2026-10-28",
       "entry_fill_price": 610.862315,
@@ -160,10 +160,10 @@
       "shares": 25.024,
       "stop_price": 591.4881288866477,
       "symbol": "MA",
-      "unrealized_pnl": 57.75
+      "unrealized_pnl": 56.62
     },
     {
-      "current_price": 613.455,
+      "current_price": 613.78,
       "days_held_sessions": 2,
       "entry_date": "2026-10-23",
       "entry_fill_price": 636.273414,
@@ -171,10 +171,10 @@
       "shares": 9.346,
       "stop_price": 582.7762097404515,
       "symbol": "META",
-      "unrealized_pnl": -213.26
+      "unrealized_pnl": -210.22
     },
     {
-      "current_price": 140.72,
+      "current_price": 140.62,
       "days_held_sessions": 0,
       "entry_date": "2026-10-27",
       "entry_fill_price": 140.298222,
@@ -182,10 +182,10 @@
       "shares": 58.384,
       "stop_price": 131.65656616472637,
       "symbol": "MRK",
-      "unrealized_pnl": 24.63
+      "unrealized_pnl": 18.79
     },
     {
-      "current_price": 214.86,
+      "current_price": 214.075,
       "days_held_sessions": 2,
       "entry_date": "2026-10-23",
       "entry_fill_price": 183.91267,
@@ -193,10 +193,10 @@
       "shares": 12.135,
       "stop_price": 142.74598503301758,
       "symbol": "MRNA",
-      "unrealized_pnl": 375.55
+      "unrealized_pnl": 366.02
     },
     {
-      "current_price": 384.08,
+      "current_price": 383.61,
       "days_held_sessions": 0,
       "entry_date": "2026-10-28",
       "entry_fill_price": 389.497085,
@@ -204,13 +204,13 @@
       "shares": 14.373,
       "stop_price": 354.3229364761526,
       "symbol": "VLO",
-      "unrealized_pnl": -77.86
+      "unrealized_pnl": -84.62
     }
   ],
   "paper_only": true,
   "pending_entries": [],
   "pending_recovery_exits": [],
-  "pnl_pct": 1.4228,
+  "pnl_pct": 1.4351,
   "realized_pnl": 961.13,
   "realized_pnl_cost_adj": 933.96,
   "regime": {
@@ -221,7 +221,7 @@
     "spy_sma200": 724.3715499999995
   },
   "status": "open",
-  "unrealized_pnl": 471.58,
+  "unrealized_pnl": 469.92,
   "versions": {
     "config_hash": "b7a3e1e6b265",
     "costs": "costs_mr_v1",
