@@ -43,23 +43,23 @@
       "wins": 0
     },
     "time": {
-      "count": 0,
-      "expectancy": null,
-      "expectancy_10bp": null,
-      "expectancy_5bp": null,
-      "expectancy_cost_adj": null,
-      "total_pnl": 0.0,
-      "total_pnl_10bp": 0.0,
-      "total_pnl_5bp": 0.0,
-      "total_pnl_cost_adj": 0.0,
-      "win_rate": null,
+      "count": 1,
+      "expectancy": -199.66,
+      "expectancy_10bp": -211.35,
+      "expectancy_5bp": -205.51,
+      "expectancy_cost_adj": -203.17,
+      "total_pnl": -199.66,
+      "total_pnl_10bp": -211.35,
+      "total_pnl_5bp": -205.51,
+      "total_pnl_cost_adj": -203.17,
+      "win_rate": 0.0,
       "wins": 0
     }
   },
   "cash": 60051.35,
-  "closed_trades": 13,
+  "closed_trades": 14,
   "entries_blocked_through": null,
-  "equity": 103730.23,
+  "equity": 103733.4,
   "equity_source": "alpaca_account",
   "fill_quality": {
     "flag_threshold_pct": 1.5,
@@ -148,34 +148,34 @@
       }
     ],
     "open_reference": {
-      "realized_pnl": 4519.08,
-      "realized_pnl_actual": 4255.72,
-      "unrealized_pnl": -503.13,
-      "unrealized_pnl_actual": -526.55
+      "realized_pnl": 4311.92,
+      "realized_pnl_actual": 4056.05,
+      "unrealized_pnl": -287.11,
+      "unrealized_pnl_actual": -318.01
     },
-    "total_fills": 31
+    "total_fills": 32
   },
   "halt_flatten": false,
   "halted": false,
   "last_signal_date": "2026-10-29",
-  "last_updated": "2026-10-30T15:53:01.866709-04:00",
-  "losses": 1,
+  "last_updated": "2026-10-30T15:58:05.450577-04:00",
+  "losses": 2,
   "mode": "paper",
-  "open_position_count": 5,
+  "open_position_count": 4,
   "open_positions": [
     {
-      "current_price": 229.01,
-      "days_held_sessions": 1,
+      "current_price": 228.71,
+      "days_held_sessions": 2,
       "entry_date": "2026-10-28",
       "entry_fill_price": 240.34,
       "rsi2_signal": 12.953334746974875,
       "shares": 30.354,
       "stop_price": 223.68915291974218,
       "symbol": "CRM",
-      "unrealized_pnl": -343.91
+      "unrealized_pnl": -353.02
     },
     {
-      "current_price": 513.635,
+      "current_price": 514.275,
       "days_held_sessions": 0,
       "entry_date": "2026-10-30",
       "entry_fill_price": 513.33,
@@ -183,48 +183,37 @@
       "shares": 30.38,
       "stop_price": 498.38105011530683,
       "symbol": "LIN",
-      "unrealized_pnl": 9.27
+      "unrealized_pnl": 28.71
     },
     {
-      "current_price": 615.22,
-      "days_held_sessions": 4,
-      "entry_date": "2026-10-23",
-      "entry_fill_price": 636.273414,
-      "rsi2_signal": 4.437722816807209,
-      "shares": 9.346,
-      "stop_price": 582.7762097404515,
-      "symbol": "META",
-      "unrealized_pnl": -196.77
-    },
-    {
-      "current_price": 406.92,
-      "days_held_sessions": 0,
+      "current_price": 406.75,
+      "days_held_sessions": 1,
       "entry_date": "2026-10-29",
       "entry_fill_price": 412.230212,
       "rsi2_signal": 11.894743537360327,
       "shares": 23.696,
       "stop_price": 390.69343500907837,
       "symbol": "UNH",
-      "unrealized_pnl": -125.83
+      "unrealized_pnl": -129.86
     },
     {
-      "current_price": 398.59,
-      "days_held_sessions": 1,
+      "current_price": 398.97,
+      "days_held_sessions": 2,
       "entry_date": "2026-10-28",
       "entry_fill_price": 389.497085,
       "rsi2_signal": 8.128952827538498,
       "shares": 14.373,
       "stop_price": 354.3229364761526,
       "symbol": "VLO",
-      "unrealized_pnl": 130.69
+      "unrealized_pnl": 136.15
     }
   ],
   "paper_only": true,
   "pending_entries": [],
   "pending_recovery_exits": [],
-  "pnl_pct": 3.7302,
-  "realized_pnl": 4255.72,
-  "realized_pnl_cost_adj": 4180.97,
+  "pnl_pct": 3.7334,
+  "realized_pnl": 4056.05,
+  "realized_pnl_cost_adj": 3977.8,
   "regime": {
     "as_of": "2026-10-29",
     "risk_on": true,
@@ -233,7 +222,7 @@
     "spy_sma200": 725.1896499999997
   },
   "status": "open",
-  "unrealized_pnl": -526.55,
+  "unrealized_pnl": -318.01,
   "versions": {
     "config_hash": "b7a3e1e6b265",
     "costs": "costs_mr_v1",
