@@ -59,7 +59,7 @@
   "cash": 60051.35,
   "closed_trades": 13,
   "entries_blocked_through": null,
-  "equity": 103789.3,
+  "equity": 103770.84,
   "equity_source": "alpaca_account",
   "fill_quality": {
     "flag_threshold_pct": 1.5,
@@ -150,21 +150,21 @@
     "open_reference": {
       "realized_pnl": 4519.08,
       "realized_pnl_actual": 4255.72,
-      "unrealized_pnl": -444.47,
-      "unrealized_pnl_actual": -467.88
+      "unrealized_pnl": -460.05,
+      "unrealized_pnl_actual": -483.46
     },
     "total_fills": 31
   },
   "halt_flatten": false,
   "halted": false,
   "last_signal_date": "2026-10-29",
-  "last_updated": "2026-10-30T12:02:30.620086-04:00",
+  "last_updated": "2026-10-30T12:07:32.508857-04:00",
   "losses": 1,
   "mode": "paper",
   "open_position_count": 5,
   "open_positions": [
     {
-      "current_price": 232.18,
+      "current_price": 232.1,
       "days_held_sessions": 1,
       "entry_date": "2026-10-28",
       "entry_fill_price": 240.34,
@@ -172,10 +172,10 @@
       "shares": 30.354,
       "stop_price": 223.68915291974218,
       "symbol": "CRM",
-      "unrealized_pnl": -247.69
+      "unrealized_pnl": -250.12
     },
     {
-      "current_price": 513.89,
+      "current_price": 514.73,
       "days_held_sessions": 0,
       "entry_date": "2026-10-30",
       "entry_fill_price": 513.33,
@@ -183,10 +183,10 @@
       "shares": 30.38,
       "stop_price": 498.38105011530683,
       "symbol": "LIN",
-      "unrealized_pnl": 17.01
+      "unrealized_pnl": 42.53
     },
     {
-      "current_price": 623.195,
+      "current_price": 621.76,
       "days_held_sessions": 4,
       "entry_date": "2026-10-23",
       "entry_fill_price": 636.273414,
@@ -194,10 +194,10 @@
       "shares": 9.346,
       "stop_price": 582.7762097404515,
       "symbol": "META",
-      "unrealized_pnl": -122.23
+      "unrealized_pnl": -135.64
     },
     {
-      "current_price": 406.6,
+      "current_price": 406.28,
       "days_held_sessions": 0,
       "entry_date": "2026-10-29",
       "entry_fill_price": 412.230212,
@@ -205,10 +205,10 @@
       "shares": 23.696,
       "stop_price": 390.69343500907837,
       "symbol": "UNH",
-      "unrealized_pnl": -133.41
+      "unrealized_pnl": -141.0
     },
     {
-      "current_price": 390.78,
+      "current_price": 389.55,
       "days_held_sessions": 1,
       "entry_date": "2026-10-28",
       "entry_fill_price": 389.497085,
@@ -216,13 +216,13 @@
       "shares": 14.373,
       "stop_price": 354.3229364761526,
       "symbol": "VLO",
-      "unrealized_pnl": 18.44
+      "unrealized_pnl": 0.76
     }
   ],
   "paper_only": true,
   "pending_entries": [],
   "pending_recovery_exits": [],
-  "pnl_pct": 3.7893,
+  "pnl_pct": 3.7708,
   "realized_pnl": 4255.72,
   "realized_pnl_cost_adj": 4180.97,
   "regime": {
@@ -233,7 +233,7 @@
     "spy_sma200": 725.1896499999997
   },
   "status": "open",
-  "unrealized_pnl": -467.88,
+  "unrealized_pnl": -483.46,
   "versions": {
     "config_hash": "b7a3e1e6b265",
     "costs": "costs_mr_v1",
