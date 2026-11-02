@@ -59,7 +59,7 @@
   "cash": 22542.69,
   "closed_trades": 16,
   "entries_blocked_through": null,
-  "equity": 101374.73,
+  "equity": 101714.83,
   "equity_source": "alpaca_account",
   "fill_quality": {
     "flag_threshold_pct": 1.5,
@@ -220,8 +220,8 @@
   },
   "halt_flatten": false,
   "halted": false,
-  "last_signal_date": "2026-10-30",
-  "last_updated": "2026-11-02T16:09:50.239408-05:00",
+  "last_signal_date": "2026-11-02",
+  "last_updated": "2026-11-02T16:10:50.243377-05:00",
   "losses": 3,
   "mode": "paper",
   "open_position_count": 13,
@@ -371,17 +371,38 @@
     }
   ],
   "paper_only": true,
-  "pending_entries": [],
+  "pending_entries": [
+    {
+      "rsi2": 9.74,
+      "signal_date": "2026-11-02",
+      "symbol": "MU"
+    },
+    {
+      "rsi2": 14.4,
+      "signal_date": "2026-11-02",
+      "symbol": "DHR"
+    },
+    {
+      "rsi2": 14.56,
+      "signal_date": "2026-11-02",
+      "symbol": "AAPL"
+    },
+    {
+      "rsi2": 14.66,
+      "signal_date": "2026-11-02",
+      "symbol": "TMO"
+    }
+  ],
   "pending_recovery_exits": [],
-  "pnl_pct": 1.3747,
+  "pnl_pct": 1.7148,
   "realized_pnl": 4171.8,
   "realized_pnl_cost_adj": 4082.32,
   "regime": {
-    "as_of": "2026-10-30",
+    "as_of": "2026-11-02",
     "risk_on": true,
-    "spy_close": 769.49,
-    "spy_regime_date": "2026-10-29",
-    "spy_sma200": 725.5955999999996
+    "spy_close": 755.72,
+    "spy_regime_date": "2026-10-30",
+    "spy_sma200": 725.9479999999998
   },
   "status": "market_closed",
   "unrealized_pnl": -2799.77,
