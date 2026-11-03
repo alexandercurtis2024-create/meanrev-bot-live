@@ -59,7 +59,7 @@
   "cash": 29195.84,
   "closed_trades": 17,
   "entries_blocked_through": null,
-  "equity": 102677.29,
+  "equity": 102578.06,
   "equity_source": "alpaca_account",
   "fill_quality": {
     "flag_threshold_pct": 1.5,
@@ -213,21 +213,21 @@
     "open_reference": {
       "realized_pnl": 3867.36,
       "realized_pnl_actual": 3530.12,
-      "unrealized_pnl": -1861.3,
-      "unrealized_pnl_actual": -863.82
+      "unrealized_pnl": -1927.73,
+      "unrealized_pnl_actual": -930.25
     },
     "total_fills": 45
   },
   "halt_flatten": false,
   "halted": false,
   "last_signal_date": "2026-11-02",
-  "last_updated": "2026-11-03T11:12:18.695925-05:00",
+  "last_updated": "2026-11-03T11:17:19.756040-05:00",
   "losses": 4,
   "mode": "paper",
   "open_position_count": 12,
   "open_positions": [
     {
-      "current_price": 492.74,
+      "current_price": 491.81,
       "days_held_sessions": 0,
       "entry_date": "2026-11-02",
       "entry_fill_price": 506.07,
@@ -235,10 +235,10 @@
       "shares": 8.885,
       "stop_price": 447.675856879133,
       "symbol": "AMD",
-      "unrealized_pnl": -118.44
+      "unrealized_pnl": -126.7
     },
     {
-      "current_price": 169.86,
+      "current_price": 169.71,
       "days_held_sessions": 0,
       "entry_date": "2026-11-02",
       "entry_fill_price": 166.311687,
@@ -246,10 +246,10 @@
       "shares": 29.63,
       "stop_price": 148.827086381513,
       "symbol": "ANET",
-      "unrealized_pnl": 105.14
+      "unrealized_pnl": 100.69
     },
     {
-      "current_price": 247.53,
+      "current_price": 247.39,
       "days_held_sessions": 0,
       "entry_date": "2026-11-02",
       "entry_fill_price": 241.493326,
@@ -257,10 +257,10 @@
       "shares": 20.306,
       "stop_price": 215.9522096621984,
       "symbol": "CRWD",
-      "unrealized_pnl": 122.58
+      "unrealized_pnl": 119.74
     },
     {
-      "current_price": 103.425,
+      "current_price": 103.33,
       "days_held_sessions": 0,
       "entry_date": "2026-11-02",
       "entry_fill_price": 103.566498,
@@ -268,10 +268,10 @@
       "shares": 85.353,
       "stop_price": 97.48808772011222,
       "symbol": "CSCO",
-      "unrealized_pnl": -12.08
+      "unrealized_pnl": -20.19
     },
     {
-      "current_price": 409.53,
+      "current_price": 409.0,
       "days_held_sessions": 0,
       "entry_date": "2026-11-02",
       "entry_fill_price": 411.095794,
@@ -279,10 +279,10 @@
       "shares": 8.285,
       "stop_price": 348.52195172735253,
       "symbol": "DELL",
-      "unrealized_pnl": -12.97
+      "unrealized_pnl": -17.36
     },
     {
-      "current_price": 54.125,
+      "current_price": 53.87,
       "days_held_sessions": 0,
       "entry_date": "2026-11-02",
       "entry_fill_price": 53.840103,
@@ -290,10 +290,10 @@
       "shares": 74.294,
       "stop_price": 46.86380771877703,
       "symbol": "HPE",
-      "unrealized_pnl": 21.17
+      "unrealized_pnl": 2.22
     },
     {
-      "current_price": 170.27,
+      "current_price": 169.84,
       "days_held_sessions": 0,
       "entry_date": "2026-11-02",
       "entry_fill_price": 183.601232,
@@ -301,10 +301,10 @@
       "shares": 14.827,
       "stop_price": 148.63456603083392,
       "symbol": "MRVL",
-      "unrealized_pnl": -197.66
+      "unrealized_pnl": -204.04
     },
     {
-      "current_price": 516.14,
+      "current_price": 516.5,
       "days_held_sessions": 0,
       "entry_date": "2026-11-02",
       "entry_fill_price": 524.76,
@@ -312,10 +312,10 @@
       "shares": 22.196,
       "stop_price": 501.40300233332215,
       "symbol": "MSFT",
-      "unrealized_pnl": -191.33
+      "unrealized_pnl": -183.34
     },
     {
-      "current_price": 208.455,
+      "current_price": 208.23,
       "days_held_sessions": 0,
       "entry_date": "2026-11-02",
       "entry_fill_price": 207.692553,
@@ -323,10 +323,10 @@
       "shares": 41.912,
       "stop_price": 195.3173403736677,
       "symbol": "NVDA",
-      "unrealized_pnl": 31.96
+      "unrealized_pnl": 22.53
     },
     {
-      "current_price": 355.73,
+      "current_price": 355.49,
       "days_held_sessions": 0,
       "entry_date": "2026-11-02",
       "entry_fill_price": 358.81,
@@ -334,10 +334,10 @@
       "shares": 13.725,
       "stop_price": 321.0213454236881,
       "symbol": "PANW",
-      "unrealized_pnl": -42.27
+      "unrealized_pnl": -45.57
     },
     {
-      "current_price": 173.63,
+      "current_price": 172.86,
       "days_held_sessions": 0,
       "entry_date": "2026-11-02",
       "entry_fill_price": 183.434318,
@@ -345,10 +345,10 @@
       "shares": 32.654,
       "stop_price": 167.54490274127957,
       "symbol": "PLTR",
-      "unrealized_pnl": -320.15
+      "unrealized_pnl": -345.29
     },
     {
-      "current_price": 401.69,
+      "current_price": 402.4,
       "days_held_sessions": 2,
       "entry_date": "2026-10-29",
       "entry_fill_price": 412.230212,
@@ -356,13 +356,13 @@
       "shares": 23.696,
       "stop_price": 390.69343500907837,
       "symbol": "UNH",
-      "unrealized_pnl": -249.76
+      "unrealized_pnl": -232.94
     }
   ],
   "paper_only": true,
   "pending_entries": [],
   "pending_recovery_exits": [],
-  "pnl_pct": 2.6773,
+  "pnl_pct": 2.5781,
   "realized_pnl": 3530.12,
   "realized_pnl_cost_adj": 3436.45,
   "regime": {
@@ -373,7 +373,7 @@
     "spy_sma200": 725.9479999999998
   },
   "status": "open",
-  "unrealized_pnl": -863.82,
+  "unrealized_pnl": -930.25,
   "versions": {
     "config_hash": "b7a3e1e6b265",
     "costs": "costs_mr_v1",
