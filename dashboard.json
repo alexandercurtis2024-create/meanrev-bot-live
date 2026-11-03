@@ -59,7 +59,7 @@
   "cash": 22542.69,
   "closed_trades": 16,
   "entries_blocked_through": null,
-  "equity": 101349.48,
+  "equity": 101305.35,
   "equity_source": "alpaca_account",
   "fill_quality": {
     "flag_threshold_pct": 1.5,
@@ -221,7 +221,7 @@
   "halt_flatten": false,
   "halted": false,
   "last_signal_date": "2026-11-02",
-  "last_updated": "2026-11-02T23:38:24.325790-05:00",
+  "last_updated": "2026-11-02T23:41:46.424543-05:00",
   "losses": 3,
   "mode": "paper",
   "open_position_count": 13,
@@ -394,7 +394,7 @@
     }
   ],
   "pending_recovery_exits": [],
-  "pnl_pct": 1.3495,
+  "pnl_pct": 1.3054,
   "realized_pnl": 4171.8,
   "realized_pnl_cost_adj": 4082.32,
   "regime": {
