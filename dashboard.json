@@ -59,7 +59,7 @@
   "cash": 29195.84,
   "closed_trades": 17,
   "entries_blocked_through": null,
-  "equity": 102514.63,
+  "equity": 103094.05,
   "equity_source": "alpaca_account",
   "fill_quality": {
     "flag_threshold_pct": 1.5,
@@ -220,8 +220,8 @@
   },
   "halt_flatten": false,
   "halted": false,
-  "last_signal_date": "2026-11-02",
-  "last_updated": "2026-11-03T16:09:00.096633-05:00",
+  "last_signal_date": "2026-11-03",
+  "last_updated": "2026-11-03T16:10:00.104339-05:00",
   "losses": 4,
   "mode": "paper",
   "open_position_count": 12,
@@ -360,17 +360,38 @@
     }
   ],
   "paper_only": true,
-  "pending_entries": [],
+  "pending_entries": [
+    {
+      "rsi2": 1.68,
+      "signal_date": "2026-11-03",
+      "symbol": "CRM"
+    },
+    {
+      "rsi2": 6.12,
+      "signal_date": "2026-11-03",
+      "symbol": "AAPL"
+    },
+    {
+      "rsi2": 11.37,
+      "signal_date": "2026-11-03",
+      "symbol": "JNJ"
+    },
+    {
+      "rsi2": 12.78,
+      "signal_date": "2026-11-03",
+      "symbol": "IBM"
+    }
+  ],
   "pending_recovery_exits": [],
-  "pnl_pct": 2.5146,
+  "pnl_pct": 3.0941,
   "realized_pnl": 3530.12,
   "realized_pnl_cost_adj": 3436.45,
   "regime": {
-    "as_of": "2026-11-02",
+    "as_of": "2026-11-03",
     "risk_on": true,
-    "spy_close": 755.72,
-    "spy_regime_date": "2026-10-30",
-    "spy_sma200": 725.9479999999998
+    "spy_close": 752.04,
+    "spy_regime_date": "2026-11-02",
+    "spy_sma200": 726.2742999999998
   },
   "status": "market_closed",
   "unrealized_pnl": -1009.26,
