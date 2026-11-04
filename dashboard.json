@@ -58,8 +58,8 @@
   },
   "cash": 34678.3,
   "closed_trades": 18,
-  "entries_blocked_through": null,
-  "equity": 102385.51,
+  "entries_blocked_through": "2026-11-05",
+  "equity": 102501.69,
   "equity_source": "alpaca_account",
   "fill_quality": {
     "flag_threshold_pct": 1.5,
@@ -220,8 +220,8 @@
   },
   "halt_flatten": false,
   "halted": false,
-  "last_signal_date": "2026-11-03",
-  "last_updated": "2026-11-04T16:09:53.798810-05:00",
+  "last_signal_date": "2026-11-04",
+  "last_updated": "2026-11-04T16:10:53.808572-05:00",
   "losses": 5,
   "mode": "paper",
   "open_position_count": 11,
@@ -349,17 +349,52 @@
     }
   ],
   "paper_only": true,
-  "pending_entries": [],
-  "pending_recovery_exits": [],
-  "pnl_pct": 2.3855,
+  "pending_entries": [
+    {
+      "rsi2": 0.36,
+      "signal_date": "2026-11-04",
+      "symbol": "PLTR"
+    },
+    {
+      "rsi2": 4.11,
+      "signal_date": "2026-11-04",
+      "symbol": "MPC"
+    },
+    {
+      "rsi2": 5.76,
+      "signal_date": "2026-11-04",
+      "symbol": "XOM"
+    },
+    {
+      "rsi2": 5.84,
+      "signal_date": "2026-11-04",
+      "symbol": "CVX"
+    },
+    {
+      "rsi2": 8.08,
+      "signal_date": "2026-11-04",
+      "symbol": "TSLA"
+    },
+    {
+      "rsi2": 13.82,
+      "signal_date": "2026-11-04",
+      "symbol": "MU"
+    }
+  ],
+  "pending_recovery_exits": [
+    "ANET",
+    "MSFT",
+    "UNH"
+  ],
+  "pnl_pct": 2.5017,
   "realized_pnl": 3022.86,
   "realized_pnl_cost_adj": 2925.75,
   "regime": {
-    "as_of": "2026-11-03",
+    "as_of": "2026-11-04",
     "risk_on": true,
-    "spy_close": 752.04,
-    "spy_regime_date": "2026-11-02",
-    "spy_sma200": 726.2742999999998
+    "spy_close": 754.38,
+    "spy_regime_date": "2026-11-03",
+    "spy_sma200": 726.6152499999998
   },
   "status": "market_closed",
   "unrealized_pnl": -640.77,
