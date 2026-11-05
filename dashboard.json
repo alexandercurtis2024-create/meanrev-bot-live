@@ -59,7 +59,7 @@
   "cash": 34678.3,
   "closed_trades": 18,
   "entries_blocked_through": "2026-11-05",
-  "equity": 101534.98,
+  "equity": 101622.41,
   "equity_source": "alpaca_account",
   "fill_quality": {
     "flag_threshold_pct": 1.5,
@@ -221,7 +221,7 @@
   "halt_flatten": false,
   "halted": false,
   "last_signal_date": "2026-11-04",
-  "last_updated": "2026-11-05T02:04:34.173364-05:00",
+  "last_updated": "2026-11-05T02:06:52.155605-05:00",
   "losses": 5,
   "mode": "paper",
   "open_position_count": 11,
@@ -386,7 +386,7 @@
     "MSFT",
     "UNH"
   ],
-  "pnl_pct": 1.535,
+  "pnl_pct": 1.6224,
   "realized_pnl": 3022.86,
   "realized_pnl_cost_adj": 2925.75,
   "regime": {
