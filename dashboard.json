@@ -59,7 +59,7 @@
   "cash": 86574.04,
   "closed_trades": 27,
   "entries_blocked_through": "2026-11-05",
-  "equity": 99358.97,
+  "equity": 99441.31,
   "equity_source": "alpaca_account",
   "fill_quality": {
     "flag_threshold_pct": 1.5,
@@ -222,21 +222,21 @@
     "open_reference": {
       "realized_pnl": 29.62,
       "realized_pnl_actual": 321.05,
-      "unrealized_pnl": -1323.07,
-      "unrealized_pnl_actual": -954.26
+      "unrealized_pnl": -1245.02,
+      "unrealized_pnl_actual": -876.21
     },
     "total_fills": 55
   },
   "halt_flatten": false,
   "halted": false,
   "last_signal_date": "2026-11-04",
-  "last_updated": "2026-11-05T10:29:43.298920-05:00",
+  "last_updated": "2026-11-05T10:34:45.449673-05:00",
   "losses": 12,
   "mode": "paper",
   "open_position_count": 2,
   "open_positions": [
     {
-      "current_price": 216.195,
+      "current_price": 220.375,
       "days_held_sessions": 2,
       "entry_date": "2026-11-02",
       "entry_fill_price": 241.493326,
@@ -244,10 +244,10 @@
       "shares": 20.306,
       "stop_price": 215.9522096621984,
       "symbol": "CRWD",
-      "unrealized_pnl": -513.71
+      "unrealized_pnl": -428.83
     },
     {
-      "current_price": 98.405,
+      "current_price": 98.325,
       "days_held_sessions": 2,
       "entry_date": "2026-11-02",
       "entry_fill_price": 103.566498,
@@ -255,13 +255,13 @@
       "shares": 85.353,
       "stop_price": 97.48808772011222,
       "symbol": "CSCO",
-      "unrealized_pnl": -440.55
+      "unrealized_pnl": -447.38
     }
   ],
   "paper_only": true,
   "pending_entries": [],
   "pending_recovery_exits": [],
-  "pnl_pct": -0.641,
+  "pnl_pct": -0.5587,
   "realized_pnl": 321.05,
   "realized_pnl_cost_adj": 191.99,
   "regime": {
@@ -272,7 +272,7 @@
     "spy_sma200": 726.6152499999998
   },
   "status": "open",
-  "unrealized_pnl": -954.26,
+  "unrealized_pnl": -876.21,
   "versions": {
     "config_hash": "b7a3e1e6b265",
     "costs": "costs_mr_v1",
