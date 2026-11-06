@@ -230,59 +230,13 @@
   "halt_flatten": false,
   "halted": false,
   "last_signal_date": "2026-11-05",
-  "last_updated": "2026-11-06T09:29:08.214727-05:00",
+  "last_updated": "2026-11-06T09:30:08.218985-05:00",
   "losses": 14,
   "mode": "paper",
   "open_position_count": 0,
   "open_positions": [],
   "paper_only": true,
-  "pending_entries": [
-    {
-      "rsi2": 0.07,
-      "signal_date": "2026-11-05",
-      "symbol": "PLTR"
-    },
-    {
-      "rsi2": 0.49,
-      "signal_date": "2026-11-05",
-      "symbol": "PANW"
-    },
-    {
-      "rsi2": 2.42,
-      "signal_date": "2026-11-05",
-      "symbol": "MPC"
-    },
-    {
-      "rsi2": 2.85,
-      "signal_date": "2026-11-05",
-      "symbol": "CRWD"
-    },
-    {
-      "rsi2": 3.38,
-      "signal_date": "2026-11-05",
-      "symbol": "XOM"
-    },
-    {
-      "rsi2": 3.55,
-      "signal_date": "2026-11-05",
-      "symbol": "CVX"
-    },
-    {
-      "rsi2": 5.79,
-      "signal_date": "2026-11-05",
-      "symbol": "HPE"
-    },
-    {
-      "rsi2": 8.05,
-      "signal_date": "2026-11-05",
-      "symbol": "TXN"
-    },
-    {
-      "rsi2": 8.21,
-      "signal_date": "2026-11-05",
-      "symbol": "VLO"
-    }
-  ],
+  "pending_entries": [],
   "pending_recovery_exits": [],
   "pnl_pct": -0.7406,
   "realized_pnl": -735.66,
@@ -294,7 +248,7 @@
     "spy_regime_date": "2026-11-04",
     "spy_sma200": 727.0869999999999
   },
-  "status": "market_closed",
+  "status": "open",
   "unrealized_pnl": 0.0,
   "versions": {
     "config_hash": "b7a3e1e6b265",
