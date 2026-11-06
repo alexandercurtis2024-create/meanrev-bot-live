@@ -58,7 +58,7 @@
   },
   "cash": 99259.45,
   "closed_trades": 29,
-  "entries_blocked_through": "2026-11-06",
+  "entries_blocked_through": "2026-11-09",
   "equity": 99259.45,
   "equity_source": "alpaca_account",
   "fill_quality": {
@@ -229,24 +229,70 @@
   },
   "halt_flatten": false,
   "halted": false,
-  "last_signal_date": "2026-11-05",
-  "last_updated": "2026-11-06T16:09:23.348829-05:00",
+  "last_signal_date": "2026-11-06",
+  "last_updated": "2026-11-06T16:10:23.352576-05:00",
   "losses": 14,
   "mode": "paper",
   "open_position_count": 0,
   "open_positions": [],
   "paper_only": true,
-  "pending_entries": [],
+  "pending_entries": [
+    {
+      "rsi2": 0.46,
+      "signal_date": "2026-11-06",
+      "symbol": "PANW"
+    },
+    {
+      "rsi2": 1.94,
+      "signal_date": "2026-11-06",
+      "symbol": "MPC"
+    },
+    {
+      "rsi2": 3.3,
+      "signal_date": "2026-11-06",
+      "symbol": "CVX"
+    },
+    {
+      "rsi2": 6.22,
+      "signal_date": "2026-11-06",
+      "symbol": "VLO"
+    },
+    {
+      "rsi2": 7.48,
+      "signal_date": "2026-11-06",
+      "symbol": "TXN"
+    },
+    {
+      "rsi2": 9.42,
+      "signal_date": "2026-11-06",
+      "symbol": "CRM"
+    },
+    {
+      "rsi2": 9.79,
+      "signal_date": "2026-11-06",
+      "symbol": "PM"
+    },
+    {
+      "rsi2": 11.35,
+      "signal_date": "2026-11-06",
+      "symbol": "LLY"
+    },
+    {
+      "rsi2": 12.49,
+      "signal_date": "2026-11-06",
+      "symbol": "CSX"
+    }
+  ],
   "pending_recovery_exits": [],
   "pnl_pct": -0.7406,
   "realized_pnl": -735.66,
   "realized_pnl_cost_adj": -872.65,
   "regime": {
-    "as_of": "2026-11-05",
+    "as_of": "2026-11-06",
     "risk_on": true,
-    "spy_close": 766.73,
-    "spy_regime_date": "2026-11-04",
-    "spy_sma200": 727.0869999999999
+    "spy_close": 733.43,
+    "spy_regime_date": "2026-11-05",
+    "spy_sma200": 727.3541499999998
   },
   "status": "market_closed",
   "unrealized_pnl": 0.0,
