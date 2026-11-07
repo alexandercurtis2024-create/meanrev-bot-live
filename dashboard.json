@@ -1,5 +1,5 @@
 {
-  "alert": null,
+  "alert": "account read failed; entries blocked (alpaca request failed: 500 Server Error: Internal Server Error for url: https://paper-api.alpaca.markets/v2/account)",
   "banner": "PAPER ONLY \u2014 MULTI-STOCK MEAN REVERSION \u00b7 ALPACA PAPER ACCOUNT \u00b7 NO REAL FUNDS",
   "broker": "alpaca-paper",
   "by_exit_reason": {
@@ -230,7 +230,7 @@
   "halt_flatten": false,
   "halted": false,
   "last_signal_date": "2026-11-06",
-  "last_updated": "2026-11-07T08:06:38.489189-05:00",
+  "last_updated": "2026-11-07T08:07:38.493232-05:00",
   "losses": 14,
   "mode": "paper",
   "open_position_count": 0,
