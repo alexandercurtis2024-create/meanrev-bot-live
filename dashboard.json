@@ -58,7 +58,7 @@
   },
   "cash": 99259.45,
   "closed_trades": 29,
-  "entries_blocked_through": "2026-11-11",
+  "entries_blocked_through": "2026-11-12",
   "equity": 99259.45,
   "equity_source": "alpaca_account",
   "fill_quality": {
@@ -229,8 +229,8 @@
   },
   "halt_flatten": false,
   "halted": false,
-  "last_signal_date": "2026-11-10",
-  "last_updated": "2026-11-11T16:09:07.387269-05:00",
+  "last_signal_date": "2026-11-11",
+  "last_updated": "2026-11-11T16:10:07.390595-05:00",
   "losses": 14,
   "mode": "paper",
   "open_position_count": 0,
@@ -242,11 +242,11 @@
   "realized_pnl": -735.66,
   "realized_pnl_cost_adj": -872.65,
   "regime": {
-    "as_of": "2026-11-10",
+    "as_of": "2026-11-11",
     "risk_on": true,
-    "spy_close": 752.72,
-    "spy_regime_date": "2026-11-09",
-    "spy_sma200": 727.9576499999998
+    "spy_close": 749.93,
+    "spy_regime_date": "2026-11-10",
+    "spy_sma200": 728.2705499999997
   },
   "status": "market_closed",
   "unrealized_pnl": 0.0,
