@@ -58,7 +58,7 @@
   },
   "cash": 99259.45,
   "closed_trades": 29,
-  "entries_blocked_through": "2026-11-12",
+  "entries_blocked_through": "2026-11-13",
   "equity": 99259.45,
   "equity_source": "alpaca_account",
   "fill_quality": {
@@ -229,24 +229,50 @@
   },
   "halt_flatten": false,
   "halted": false,
-  "last_signal_date": "2026-11-11",
-  "last_updated": "2026-11-12T16:09:16.788117-05:00",
+  "last_signal_date": "2026-11-12",
+  "last_updated": "2026-11-12T16:10:16.804603-05:00",
   "losses": 14,
   "mode": "paper",
   "open_position_count": 0,
   "open_positions": [],
   "paper_only": true,
-  "pending_entries": [],
+  "pending_entries": [
+    {
+      "rsi2": 5.89,
+      "signal_date": "2026-11-12",
+      "symbol": "ABT"
+    },
+    {
+      "rsi2": 10.84,
+      "signal_date": "2026-11-12",
+      "symbol": "ISRG"
+    },
+    {
+      "rsi2": 11.22,
+      "signal_date": "2026-11-12",
+      "symbol": "PFE"
+    },
+    {
+      "rsi2": 11.92,
+      "signal_date": "2026-11-12",
+      "symbol": "MRNA"
+    },
+    {
+      "rsi2": 14.83,
+      "signal_date": "2026-11-12",
+      "symbol": "ACN"
+    }
+  ],
   "pending_recovery_exits": [],
   "pnl_pct": -0.7406,
   "realized_pnl": -735.66,
   "realized_pnl_cost_adj": -872.65,
   "regime": {
-    "as_of": "2026-11-11",
+    "as_of": "2026-11-12",
     "risk_on": true,
-    "spy_close": 749.93,
-    "spy_regime_date": "2026-11-10",
-    "spy_sma200": 728.2705499999997
+    "spy_close": 759.8,
+    "spy_regime_date": "2026-11-11",
+    "spy_sma200": 728.6189999999998
   },
   "status": "market_closed",
   "unrealized_pnl": 0.0,
