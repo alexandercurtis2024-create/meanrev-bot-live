@@ -230,39 +230,13 @@
   "halt_flatten": false,
   "halted": false,
   "last_signal_date": "2026-11-12",
-  "last_updated": "2026-11-13T09:29:01.394019-05:00",
+  "last_updated": "2026-11-13T09:30:01.397653-05:00",
   "losses": 14,
   "mode": "paper",
   "open_position_count": 0,
   "open_positions": [],
   "paper_only": true,
-  "pending_entries": [
-    {
-      "rsi2": 5.89,
-      "signal_date": "2026-11-12",
-      "symbol": "ABT"
-    },
-    {
-      "rsi2": 10.84,
-      "signal_date": "2026-11-12",
-      "symbol": "ISRG"
-    },
-    {
-      "rsi2": 11.22,
-      "signal_date": "2026-11-12",
-      "symbol": "PFE"
-    },
-    {
-      "rsi2": 11.92,
-      "signal_date": "2026-11-12",
-      "symbol": "MRNA"
-    },
-    {
-      "rsi2": 14.83,
-      "signal_date": "2026-11-12",
-      "symbol": "ACN"
-    }
-  ],
+  "pending_entries": [],
   "pending_recovery_exits": [],
   "pnl_pct": -0.7406,
   "realized_pnl": -735.66,
@@ -274,7 +248,7 @@
     "spy_regime_date": "2026-11-11",
     "spy_sma200": 728.6189999999998
   },
-  "status": "market_closed",
+  "status": "open",
   "unrealized_pnl": 0.0,
   "versions": {
     "config_hash": "b7a3e1e6b265",
