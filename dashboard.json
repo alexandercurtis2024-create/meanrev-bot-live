@@ -58,7 +58,7 @@
   },
   "cash": 99282.04,
   "closed_trades": 29,
-  "entries_blocked_through": "2026-11-16",
+  "entries_blocked_through": "2026-11-17",
   "equity": 99282.04,
   "equity_source": "alpaca_account",
   "fill_quality": {
@@ -229,24 +229,85 @@
   },
   "halt_flatten": false,
   "halted": false,
-  "last_signal_date": "2026-11-13",
-  "last_updated": "2026-11-16T16:09:50.243969-05:00",
+  "last_signal_date": "2026-11-16",
+  "last_updated": "2026-11-16T16:10:50.248464-05:00",
   "losses": 14,
   "mode": "paper",
   "open_position_count": 0,
   "open_positions": [],
   "paper_only": true,
-  "pending_entries": [],
+  "pending_entries": [
+    {
+      "rsi2": 4.27,
+      "signal_date": "2026-11-16",
+      "symbol": "MRNA"
+    },
+    {
+      "rsi2": 7.66,
+      "signal_date": "2026-11-16",
+      "symbol": "PLTR"
+    },
+    {
+      "rsi2": 8.03,
+      "signal_date": "2026-11-16",
+      "symbol": "AMZN"
+    },
+    {
+      "rsi2": 8.27,
+      "signal_date": "2026-11-16",
+      "symbol": "APH"
+    },
+    {
+      "rsi2": 9.65,
+      "signal_date": "2026-11-16",
+      "symbol": "TMO"
+    },
+    {
+      "rsi2": 10.29,
+      "signal_date": "2026-11-16",
+      "symbol": "ACN"
+    },
+    {
+      "rsi2": 11.75,
+      "signal_date": "2026-11-16",
+      "symbol": "NXPI"
+    },
+    {
+      "rsi2": 12.43,
+      "signal_date": "2026-11-16",
+      "symbol": "MRK"
+    },
+    {
+      "rsi2": 12.92,
+      "signal_date": "2026-11-16",
+      "symbol": "ADI"
+    },
+    {
+      "rsi2": 13.67,
+      "signal_date": "2026-11-16",
+      "symbol": "PANW"
+    },
+    {
+      "rsi2": 13.92,
+      "signal_date": "2026-11-16",
+      "symbol": "RTX"
+    },
+    {
+      "rsi2": 14.77,
+      "signal_date": "2026-11-16",
+      "symbol": "WFC"
+    }
+  ],
   "pending_recovery_exits": [],
   "pnl_pct": -0.718,
   "realized_pnl": -735.66,
   "realized_pnl_cost_adj": -872.65,
   "regime": {
-    "as_of": "2026-11-13",
+    "as_of": "2026-11-16",
     "risk_on": true,
-    "spy_close": 757.16,
-    "spy_regime_date": "2026-11-12",
-    "spy_sma200": 728.9549499999998
+    "spy_close": 754.27,
+    "spy_regime_date": "2026-11-13",
+    "spy_sma200": 729.2835499999998
   },
   "status": "market_closed",
   "unrealized_pnl": 0.0,
