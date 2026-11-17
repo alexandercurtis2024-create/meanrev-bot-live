@@ -230,74 +230,13 @@
   "halt_flatten": false,
   "halted": false,
   "last_signal_date": "2026-11-16",
-  "last_updated": "2026-11-17T09:29:03.530745-05:00",
+  "last_updated": "2026-11-17T09:30:03.540087-05:00",
   "losses": 14,
   "mode": "paper",
   "open_position_count": 0,
   "open_positions": [],
   "paper_only": true,
-  "pending_entries": [
-    {
-      "rsi2": 4.27,
-      "signal_date": "2026-11-16",
-      "symbol": "MRNA"
-    },
-    {
-      "rsi2": 7.66,
-      "signal_date": "2026-11-16",
-      "symbol": "PLTR"
-    },
-    {
-      "rsi2": 8.03,
-      "signal_date": "2026-11-16",
-      "symbol": "AMZN"
-    },
-    {
-      "rsi2": 8.27,
-      "signal_date": "2026-11-16",
-      "symbol": "APH"
-    },
-    {
-      "rsi2": 9.65,
-      "signal_date": "2026-11-16",
-      "symbol": "TMO"
-    },
-    {
-      "rsi2": 10.29,
-      "signal_date": "2026-11-16",
-      "symbol": "ACN"
-    },
-    {
-      "rsi2": 11.75,
-      "signal_date": "2026-11-16",
-      "symbol": "NXPI"
-    },
-    {
-      "rsi2": 12.43,
-      "signal_date": "2026-11-16",
-      "symbol": "MRK"
-    },
-    {
-      "rsi2": 12.92,
-      "signal_date": "2026-11-16",
-      "symbol": "ADI"
-    },
-    {
-      "rsi2": 13.67,
-      "signal_date": "2026-11-16",
-      "symbol": "PANW"
-    },
-    {
-      "rsi2": 13.92,
-      "signal_date": "2026-11-16",
-      "symbol": "RTX"
-    },
-    {
-      "rsi2": 14.77,
-      "signal_date": "2026-11-16",
-      "symbol": "WFC"
-    }
-  ],
+  "pending_entries": [],
   "pending_recovery_exits": [],
   "pnl_pct": -0.718,
   "realized_pnl": -735.66,
@@ -309,7 +248,7 @@
     "spy_regime_date": "2026-11-13",
     "spy_sma200": 729.2835499999998
   },
-  "status": "market_closed",
+  "status": "open",
   "unrealized_pnl": 0.0,
   "versions": {
     "config_hash": "b7a3e1e6b265",
