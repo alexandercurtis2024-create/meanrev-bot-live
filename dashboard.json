@@ -230,119 +230,13 @@
   "halt_flatten": false,
   "halted": false,
   "last_signal_date": "2026-11-17",
-  "last_updated": "2026-11-18T09:29:09.646161-05:00",
+  "last_updated": "2026-11-18T09:30:09.652227-05:00",
   "losses": 14,
   "mode": "paper",
   "open_position_count": 0,
   "open_positions": [],
   "paper_only": true,
-  "pending_entries": [
-    {
-      "rsi2": 2.23,
-      "signal_date": "2026-11-17",
-      "symbol": "MRNA"
-    },
-    {
-      "rsi2": 2.41,
-      "signal_date": "2026-11-17",
-      "symbol": "ACN"
-    },
-    {
-      "rsi2": 3.32,
-      "signal_date": "2026-11-17",
-      "symbol": "HD"
-    },
-    {
-      "rsi2": 4.4,
-      "signal_date": "2026-11-17",
-      "symbol": "PLTR"
-    },
-    {
-      "rsi2": 5.22,
-      "signal_date": "2026-11-17",
-      "symbol": "MSFT"
-    },
-    {
-      "rsi2": 5.23,
-      "signal_date": "2026-11-17",
-      "symbol": "PFE"
-    },
-    {
-      "rsi2": 5.96,
-      "signal_date": "2026-11-17",
-      "symbol": "DHR"
-    },
-    {
-      "rsi2": 6.1,
-      "signal_date": "2026-11-17",
-      "symbol": "PANW"
-    },
-    {
-      "rsi2": 6.16,
-      "signal_date": "2026-11-17",
-      "symbol": "TMO"
-    },
-    {
-      "rsi2": 7.32,
-      "signal_date": "2026-11-17",
-      "symbol": "CRWD"
-    },
-    {
-      "rsi2": 7.83,
-      "signal_date": "2026-11-17",
-      "symbol": "MRK"
-    },
-    {
-      "rsi2": 8.13,
-      "signal_date": "2026-11-17",
-      "symbol": "JPM"
-    },
-    {
-      "rsi2": 8.24,
-      "signal_date": "2026-11-17",
-      "symbol": "ISRG"
-    },
-    {
-      "rsi2": 8.26,
-      "signal_date": "2026-11-17",
-      "symbol": "ABT"
-    },
-    {
-      "rsi2": 9.68,
-      "signal_date": "2026-11-17",
-      "symbol": "NXPI"
-    },
-    {
-      "rsi2": 11.13,
-      "signal_date": "2026-11-17",
-      "symbol": "LIN"
-    },
-    {
-      "rsi2": 11.38,
-      "signal_date": "2026-11-17",
-      "symbol": "DIS"
-    },
-    {
-      "rsi2": 11.83,
-      "signal_date": "2026-11-17",
-      "symbol": "ABBV"
-    },
-    {
-      "rsi2": 13.22,
-      "signal_date": "2026-11-17",
-      "symbol": "UNH"
-    },
-    {
-      "rsi2": 13.35,
-      "signal_date": "2026-11-17",
-      "symbol": "CSX"
-    },
-    {
-      "rsi2": 14.0,
-      "signal_date": "2026-11-17",
-      "symbol": "MA"
-    }
-  ],
+  "pending_entries": [],
   "pending_recovery_exits": [],
   "pnl_pct": -0.718,
   "realized_pnl": -735.66,
@@ -354,7 +248,7 @@
     "spy_regime_date": "2026-11-16",
     "spy_sma200": 729.5516999999999
   },
-  "status": "market_closed",
+  "status": "open",
   "unrealized_pnl": 0.0,
   "versions": {
     "config_hash": "b7a3e1e6b265",
