@@ -230,124 +230,13 @@
   "halt_flatten": false,
   "halted": false,
   "last_signal_date": "2026-11-18",
-  "last_updated": "2026-11-19T09:29:30.467538-05:00",
+  "last_updated": "2026-11-19T09:30:30.478723-05:00",
   "losses": 14,
   "mode": "paper",
   "open_position_count": 0,
   "open_positions": [],
   "paper_only": true,
-  "pending_entries": [
-    {
-      "rsi2": 0.76,
-      "signal_date": "2026-11-18",
-      "symbol": "ACN"
-    },
-    {
-      "rsi2": 1.05,
-      "signal_date": "2026-11-18",
-      "symbol": "MRNA"
-    },
-    {
-      "rsi2": 1.72,
-      "signal_date": "2026-11-18",
-      "symbol": "MRK"
-    },
-    {
-      "rsi2": 1.79,
-      "signal_date": "2026-11-18",
-      "symbol": "ABBV"
-    },
-    {
-      "rsi2": 2.12,
-      "signal_date": "2026-11-18",
-      "symbol": "PFE"
-    },
-    {
-      "rsi2": 2.61,
-      "signal_date": "2026-11-18",
-      "symbol": "HD"
-    },
-    {
-      "rsi2": 4.42,
-      "signal_date": "2026-11-18",
-      "symbol": "JPM"
-    },
-    {
-      "rsi2": 4.76,
-      "signal_date": "2026-11-18",
-      "symbol": "MPC"
-    },
-    {
-      "rsi2": 5.21,
-      "signal_date": "2026-11-18",
-      "symbol": "PSX"
-    },
-    {
-      "rsi2": 5.22,
-      "signal_date": "2026-11-18",
-      "symbol": "BRK-B"
-    },
-    {
-      "rsi2": 5.69,
-      "signal_date": "2026-11-18",
-      "symbol": "CVX"
-    },
-    {
-      "rsi2": 5.78,
-      "signal_date": "2026-11-18",
-      "symbol": "LLY"
-    },
-    {
-      "rsi2": 6.09,
-      "signal_date": "2026-11-18",
-      "symbol": "JNJ"
-    },
-    {
-      "rsi2": 6.1,
-      "signal_date": "2026-11-18",
-      "symbol": "XOM"
-    },
-    {
-      "rsi2": 6.57,
-      "signal_date": "2026-11-18",
-      "symbol": "VLO"
-    },
-    {
-      "rsi2": 7.5,
-      "signal_date": "2026-11-18",
-      "symbol": "LIN"
-    },
-    {
-      "rsi2": 7.53,
-      "signal_date": "2026-11-18",
-      "symbol": "ABT"
-    },
-    {
-      "rsi2": 8.86,
-      "signal_date": "2026-11-18",
-      "symbol": "NXPI"
-    },
-    {
-      "rsi2": 11.47,
-      "signal_date": "2026-11-18",
-      "symbol": "MA"
-    },
-    {
-      "rsi2": 12.77,
-      "signal_date": "2026-11-18",
-      "symbol": "V"
-    },
-    {
-      "rsi2": 12.83,
-      "signal_date": "2026-11-18",
-      "symbol": "ADI"
-    },
-    {
-      "rsi2": 14.7,
-      "signal_date": "2026-11-18",
-      "symbol": "XEL"
-    }
-  ],
+  "pending_entries": [],
   "pending_recovery_exits": [],
   "pnl_pct": -0.718,
   "realized_pnl": -735.66,
@@ -359,7 +248,7 @@
     "spy_regime_date": "2026-11-17",
     "spy_sma200": 729.7638999999998
   },
-  "status": "market_closed",
+  "status": "open",
   "unrealized_pnl": 0.0,
   "versions": {
     "config_hash": "b7a3e1e6b265",
