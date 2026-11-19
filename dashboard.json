@@ -58,7 +58,7 @@
   },
   "cash": 99282.04,
   "closed_trades": 29,
-  "entries_blocked_through": "2026-11-19",
+  "entries_blocked_through": "2026-11-20",
   "equity": 99282.04,
   "equity_source": "alpaca_account",
   "fill_quality": {
@@ -229,24 +229,160 @@
   },
   "halt_flatten": false,
   "halted": false,
-  "last_signal_date": "2026-11-18",
-  "last_updated": "2026-11-19T16:09:37.095598-05:00",
+  "last_signal_date": "2026-11-19",
+  "last_updated": "2026-11-19T16:10:37.099221-05:00",
   "losses": 14,
   "mode": "paper",
   "open_position_count": 0,
   "open_positions": [],
   "paper_only": true,
-  "pending_entries": [],
+  "pending_entries": [
+    {
+      "rsi2": 0.37,
+      "signal_date": "2026-11-19",
+      "symbol": "ACN"
+    },
+    {
+      "rsi2": 0.71,
+      "signal_date": "2026-11-19",
+      "symbol": "MRK"
+    },
+    {
+      "rsi2": 0.86,
+      "signal_date": "2026-11-19",
+      "symbol": "PFE"
+    },
+    {
+      "rsi2": 1.11,
+      "signal_date": "2026-11-19",
+      "symbol": "ABBV"
+    },
+    {
+      "rsi2": 2.12,
+      "signal_date": "2026-11-19",
+      "symbol": "HD"
+    },
+    {
+      "rsi2": 2.32,
+      "signal_date": "2026-11-19",
+      "symbol": "PM"
+    },
+    {
+      "rsi2": 2.52,
+      "signal_date": "2026-11-19",
+      "symbol": "LLY"
+    },
+    {
+      "rsi2": 2.63,
+      "signal_date": "2026-11-19",
+      "symbol": "XEL"
+    },
+    {
+      "rsi2": 2.81,
+      "signal_date": "2026-11-19",
+      "symbol": "JNJ"
+    },
+    {
+      "rsi2": 2.97,
+      "signal_date": "2026-11-19",
+      "symbol": "V"
+    },
+    {
+      "rsi2": 3.16,
+      "signal_date": "2026-11-19",
+      "symbol": "MA"
+    },
+    {
+      "rsi2": 3.36,
+      "signal_date": "2026-11-19",
+      "symbol": "MPC"
+    },
+    {
+      "rsi2": 4.09,
+      "signal_date": "2026-11-19",
+      "symbol": "PSX"
+    },
+    {
+      "rsi2": 4.18,
+      "signal_date": "2026-11-19",
+      "symbol": "BRK-B"
+    },
+    {
+      "rsi2": 4.35,
+      "signal_date": "2026-11-19",
+      "symbol": "XOM"
+    },
+    {
+      "rsi2": 4.74,
+      "signal_date": "2026-11-19",
+      "symbol": "VLO"
+    },
+    {
+      "rsi2": 5.0,
+      "signal_date": "2026-11-19",
+      "symbol": "HUM"
+    },
+    {
+      "rsi2": 5.09,
+      "signal_date": "2026-11-19",
+      "symbol": "ABT"
+    },
+    {
+      "rsi2": 5.32,
+      "signal_date": "2026-11-19",
+      "symbol": "LIN"
+    },
+    {
+      "rsi2": 5.64,
+      "signal_date": "2026-11-19",
+      "symbol": "ADI"
+    },
+    {
+      "rsi2": 6.56,
+      "signal_date": "2026-11-19",
+      "symbol": "KO"
+    },
+    {
+      "rsi2": 6.96,
+      "signal_date": "2026-11-19",
+      "symbol": "TXN"
+    },
+    {
+      "rsi2": 7.01,
+      "signal_date": "2026-11-19",
+      "symbol": "NXPI"
+    },
+    {
+      "rsi2": 9.25,
+      "signal_date": "2026-11-19",
+      "symbol": "MSFT"
+    },
+    {
+      "rsi2": 10.08,
+      "signal_date": "2026-11-19",
+      "symbol": "AAPL"
+    },
+    {
+      "rsi2": 10.23,
+      "signal_date": "2026-11-19",
+      "symbol": "WMT"
+    },
+    {
+      "rsi2": 13.72,
+      "signal_date": "2026-11-19",
+      "symbol": "PG"
+    }
+  ],
   "pending_recovery_exits": [],
   "pnl_pct": -0.718,
   "realized_pnl": -735.66,
   "realized_pnl_cost_adj": -872.65,
   "regime": {
-    "as_of": "2026-11-18",
+    "as_of": "2026-11-19",
     "risk_on": true,
-    "spy_close": 732.41,
-    "spy_regime_date": "2026-11-17",
-    "spy_sma200": 729.7638999999998
+    "spy_close": 730.33,
+    "spy_regime_date": "2026-11-18",
+    "spy_sma200": 729.9952499999998
   },
   "status": "market_closed",
   "unrealized_pnl": 0.0,
