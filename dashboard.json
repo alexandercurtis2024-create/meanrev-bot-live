@@ -1,5 +1,5 @@
 {
-  "alert": null,
+  "alert": "account read failed; entries blocked (alpaca request failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')))",
   "banner": "PAPER ONLY \u2014 MULTI-STOCK MEAN REVERSION \u00b7 ALPACA PAPER ACCOUNT \u00b7 NO REAL FUNDS",
   "broker": "alpaca-paper",
   "by_exit_reason": {
@@ -230,7 +230,7 @@
   "halt_flatten": false,
   "halted": false,
   "last_signal_date": "2026-11-19",
-  "last_updated": "2026-11-20T06:19:13.913447-05:00",
+  "last_updated": "2026-11-20T06:20:13.918046-05:00",
   "losses": 14,
   "mode": "paper",
   "open_position_count": 0,
