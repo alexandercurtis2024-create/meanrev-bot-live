@@ -230,7 +230,7 @@
   "halt_flatten": false,
   "halted": false,
   "last_signal_date": "2026-11-25",
-  "last_updated": "2026-11-27T09:29:34.586091-05:00",
+  "last_updated": "2026-11-27T09:30:34.589616-05:00",
   "losses": 14,
   "mode": "paper",
   "open_position_count": 0,
@@ -248,7 +248,7 @@
     "spy_regime_date": "2026-11-24",
     "spy_sma200": 730.6009999999998
   },
-  "status": "market_closed",
+  "status": "open",
   "unrealized_pnl": 0.0,
   "versions": {
     "config_hash": "b7a3e1e6b265",
